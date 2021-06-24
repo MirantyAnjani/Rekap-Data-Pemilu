@@ -1,4 +1,4 @@
-/*Proyek Akhir Pemrograman Lanjut 2021
+/*Proyek Akhir Pemrograman Lanjut 2021 Semester Genap
   dibuat oleh:
   1. Miranty Anjani Putri <2006468270>
   2. Nisrina Alifah Sauda <2006577523>
