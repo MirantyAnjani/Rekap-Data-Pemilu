@@ -12,7 +12,7 @@ Cara pengoperasian program :
 1. Untuk melakukan proses voting, admin perlu melakukan setting batas jumlah daerah yang akan melakukan input suara terlebih dahulu, oleh karena itu silahkan login ke bagian admin, pilih setting batas daerah, lalu lakukan berbagai pengaturan lainnya sesuai arahan program.
 2. Selanjutnya, anda dapat melakukan input suara, melihat hasil voting, atau bereksperimen dengan fitur admin
 
-Video mengenai penjelasan program: https://youtu.be/SVmaSrTYVTs
+Video mengenai penjelasan program: https://youtu.be/lItb9R0JYV0
 
 This source code is made by:
 Kelompok 4
