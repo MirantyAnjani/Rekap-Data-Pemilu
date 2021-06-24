@@ -499,7 +499,7 @@ void dataSebelum()
     	exit(1);
 	}
 	else {
-		//Membuka file jika untuk voting yang telah dilakukan sebelumnya(jika sudah dilakukan)
+		//Membuka lalu membaca file jika untuk voting yang telah dilakukan sebelumnya(jika sudah dilakukan)
 		while(!feof(fileptr)) {
 			fscanf(fileptr, "%d %s %ld %ld %ld %ld %ld %ld\n", &g, p, &a, &b, &c, &d, &e, &f);
 			printf("%-5d%-20s%-20ld%-20ld%-20ld%-20ld%-20ld%-20ld\n", g, p, a, b, c, d, e, f);
